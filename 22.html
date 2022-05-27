@@ -1,0 +1,25 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio CU01135E</title>
+    <script>
+        function pedirNumeros(){
+            var numeroGuardado = [];
+            var msg = 'Multiplicamos los números elejidos por 3:\n';
+            for(i=0; i<5; i++){
+                numeroPedido = prompt('Ingrese un número');
+                numeroGuardado[i] = Number(numeroPedido);
+            }
+            for (i in numeroGuardado){
+                msg = msg + numeroGuardado[i] + '*3 = ' + (numeroGuardado[i] * 3) + '\n';
+            }
+            alert(msg);
+        }
+    </script>
+</head>
+<body>
+    <script>
+        pedirNumeros();
+    </script>
+</body>
+</html>
