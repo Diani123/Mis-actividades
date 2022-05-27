@@ -1,3 +1,1 @@
-Esta es la historia de fredy vega
-fredy vega tiene 32 años de edad
-mañana nos enfocaremos en su vida laboral
+ESTO ES UNA PRACTICA PARA GUARDAR CAMBIOS EN EL REPOSITORIO CREADO EN GIT 
