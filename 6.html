@@ -1,13 +1,16 @@
 <html>
 <body>
-    <p>Decremento de numeros con ciclo for</p> 
+    <p>romper un ciclo y continuar </p> 
     <script>
-        var text="";
-        var i;
-        for(i=50; i>0;i--){
-            text+=""+ i +"\n";
-
+        let text="";
+        let i;
+        for(i=0; i < 20;i++){
+           if(i===10) {
+               continue;//hace que se rompa el ciclo pero continua//
+           }
+           text+="the number is "+ i +"\n";
         }
+     
          console.log(text)
     </script>
     <body>

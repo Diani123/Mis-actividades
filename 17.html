@@ -1,23 +1,14 @@
 <html>
     <body>
-       <p>imprimir frase de acuerdo  al dia de la semana</p> 
-    <script>
-let day = prompt('¿Què dia es hoy?');
+        <script>
+            
 
-if (day === 'lunes') {
-  alert('No temas los lunes, ¡que te teman a ti!');
-} else if (day === 'martes') {
-  alert('Los martes son perfectos para seguir luchando por tus sueños ');
-} else if (day === 'miercoles') {
-  alert('Hay miércoles que sumados a la buena compañía parecen viernes ');
-} else if (day === 'jueves') {
-  alert('No importa lo lento que vayas mientras no te detengas: ¡feliz jueves! ');
-} else if (day === 'viernes') {
-  alert('La sonrisa es mía, el motivo… ¡hoy es viernes!');
-}
-else if (day === 'sabado') {
-  alert('feliz fin de semana :) '); 
-}
-</script>  
-</body>
+            <input type="text" 
+     id="sessionNo" 
+    name="sessionNum" 
+    onkeypress="return isNumberKey(event)" 
+    maxlength="5" />
+    
+        </script>
+    </body>
 </html>

@@ -1,16 +1,17 @@
 <html>
 <body>
-    <p>ciclo while </p> 
+    <p>romper un ciclo y continuar </p> 
     <script>
-        //Recorrer los numeros desde 2 hasta 10//
-        var text="";
-        var i= 2;
-       while(i < 10){
-           text  += "\n the number is "+ i ; i++;
+        let text="";
+        let i;
+        for(i=0; i < 20;i++){
+           if(i===11) {
+               break;//hace que se rompa el ciclo y no continua//
+           }
+           text+="the number is "+ i +"\n";
         }
-        console.log(text);
-         
+     
+         console.log(text)
     </script>
     <body>
-    <html>
-        
+   <html>
