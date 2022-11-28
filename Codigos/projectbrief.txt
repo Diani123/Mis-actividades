@@ -1,0 +1,33 @@
+Creación de un software  para implementar en el Área de bienestar de la IES CINOC
+
+
+Introducciòn: La IES CINOC es una Entidad educativa pùblica  que a lo largo de su historia ha ido creciendo significativamente ,puesto que  pasó a ser una entidad de educación básica y media  a lo que conocemos hoy como Institución de Educación Superior Colegio Integrado Nacional Oriente de Caldas, en este aspecto evolutivo se evidencia un progreso continuo  de la misma tanto interna como externamente
+ En conceptos màs amplios cabe resaltar que  la reestructuraciòn  ,implementaciòn de nuevos sistemas educativos los cambios en la planta de personal fueron influyendo en la mejora  gradual de  la calidad  de educaciòn y oferta que hoy conocemos y que recibimos por parte de esta instituciòn .
+Actualmente es una de las entidades màs reconocidas en el departamento de Caldas y visualizandolo desde otro punto de vista es una de las instituciones de educación superior pública màs influyentes entre los municipios de Caldas  mediante el esfuerzo y la dedicaciòn que cada una de las partes comprometidas a puesto en ella.Lo mencionado anteriormente se ha dado gracias a que la Ies Cinoc ahora es una entidad promotora de la educaciòn , por su infraestructura que sigue teniendo cambios, la tecnología que se ha implementado en las diferentes áreas las cuales brindan comodidad y utilidad para todos los procesos que se realizan en estas .
+Teniendo en cuenta que la IES CINOC  brinda apoyos institucionales,matrícula de honor , hospedaje y alimentación es una entidad que cuenta con una considerable cantidad de estudiantes entre la sede principal y extensiones , por lo tanto es un sistema educativo que constantemente busca fortalecer los procesos que se llevan en cada una de sus áreas para tener el control , orden y brindar una eduaciòn de calidad, para ello es fundamental el uso de  herramientas tecnològicas las cuales ayudan en los diferentes procesos que se hacen en ella.
+
+
+Desarrollo
+
+Haciendo énfasis en cada una de las áreas  de la IES CINOC, se puede resaltar que los procesos que se llevan a cabo en cada una , son muy completos y eficaces , gracias al personal  capacitado en gran medida y las herramientas tecnológicas que implementan .
+Desde otro punto de vista  , aunque la IES CINOC es un sistema muy completo ,ordenado  en muchos contextos y posee recursos tecnòlogicos  con fines acadèmicos y de  registro, se puede deducir que es necesario implementar màs herramientas tecnòlogicas en los procesos de una de las àreas màs influyentes como lo es el àrea de bienestar institucional.
+
+El àrea de bienestar es la parte administrativa que regula los beneficios de hospeda y alimentaciòn .En las dependencias  que corresponden a esta se llevan a cabo diferentes actividades como lo son: El seguimiento psicosocial, manejo de incentivos econòmicos,contraprestaciones  y área de deportes para el aprovechamiento del tiempo libre. En estas actividades se considera necesario implementar un software que permita el desarrollo de las mismas de una manera eficaz y efectiva  , ya que al llevarse a cabo estas acciones correspondientes a bienestar institucional se pueden presentar diferentes repercusiones poco benéficas para su realizaciòn  y se pretende mejorar los siguientes aspectos desde  una forma  màs sistemàtizada:
+
+
+- Bases de datos sobre la información de los beneficiarios de hospedaje y alimentación para el recibimiento de los incentivos económicos .(hacer un registro de los beneficiarios, los números de cuenta,. el estado de pagos y la entrega de los recibos por parte de los estudiantes .
+
+-Un registro del seguimiento psicosocial de cada estudiante en  cuanto a su realización
+.
+-seguimiento y registro de contraprestaciones de los beneficiarios de hospedaje y alimentación en deportes , dependencias del Ies Cinoc  y otras actividades fuera de la institución.
+
+-Registro de estudiantes en actividades culturales y   deportivas.
+
+De acuerdo a lo anterior se pretende implementar un software adaptable a 3 tipos de usuario, los cuales son :Los docentes que hacen parte de las actividades que se realizan en el àrea de bienestar, el personal administrativo que maneja la informaciòn importante  y los estudiantes que hacen parte de los beneficios de hospedaje y/o alimentaciòn , de manera  que permita hacer un control sistematizado de área de bienestar, mejorar y regularizar cada proceso que se lleva a cabo para que tanto estudiantes ,docentes y administrativos  puedan hacer sus actividades de una forma  màs cómoda , adaptable a su disponibilidad , espacio y tiempo sin que haya inconvenientes en el momento de dar y recibir informaciòn para la verificaciòn y cumplimiento de lo que se debe hacer desde los diferentes ocupaciones .
+
+conclusiòn: Implementar , visibilizar y crear un software enfocado en el àrea de bienestar de la insituciòn es la mejor forma de contribuir a su desarrollo , de manera que se pueda realizar las actividades así como  procesos propuestos con mayor facilidad y efectividad  por parte de los miembros que la componen y en un aspecto general para contribuir al desarrollo de la instituciòn en cuanto a herramientas tecnològicos  útiles para su funcionamiento y las sitematizaciòn de un área importante como lo es bienestar institucional. 
+
+
+
+
+
