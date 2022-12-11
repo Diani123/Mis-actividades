@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+/* agregar border a las tarjetas */
+.mvl-character-card{
+  border: 3px solid red;
+}
+/* texto de la fecha de creaciòn de marvel */
+
+
+/* mejorar la barra de busqueda */
+.mvl-character-gri-filters{
+  border-bottom: 2px solid black;
+  width: 100%;
+}
+input{
+  border: 2px solid yellow;
+}

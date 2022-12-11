@@ -1,0 +1,11 @@
+.mvl-character-gri-filters {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 10px;
+  gap: var(--space-lg);
+  padding: var(--space-md) 0;
+  width: 100%;
+  box-sizing: border-box;
+}

@@ -1,0 +1,16 @@
+.mvl-main-footer {
+  height: 400px;
+  gap: 10px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(50%,1fr));
+  grid-template-rows: 1fr;
+  background-color: var(--color-primary-dark);
+  color: var(--color-accent);
+  margin-top: 30px;
+  mar
+}
+.footer-img{
+   background-image: url("/assets/images/footer-img.png" );
+   background-repeat: no-repeat;
+
+}
