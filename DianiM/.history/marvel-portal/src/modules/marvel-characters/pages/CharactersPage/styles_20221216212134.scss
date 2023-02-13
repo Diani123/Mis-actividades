@@ -1,0 +1,55 @@
+.mvl-characters-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-lg);
+  background-color: var(--white);
+  margin-bottom: 30px;
+}
+
+.mvl-characters-page-header {
+  background-image: url('/assets/images/characters_banner.jpeg');
+  min-height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: var(--black);
+  flex-direction: column;
+  width: 100%;
+  z-index: 50;
+  background-repeat: no-repeat;
+  margin-bottom: 50px solid blue;
+}
+
+.mvl-section-card {
+  background: var(--color-primary-dark);
+  color: var(--color-accent);
+  min-height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid var(--color-border);
+  width: 96%;
+  margin: 0;
+}
+
+.main {
+  background-color: var(--white);
+}
+
+.container {
+  display: grid;
+  color: var(--black);
+}
+.title-featured {
+  color: #202020;
+  font-size: 3rem;
+}
+.text-header {
+  color: white;
+  font-size: 2rem;
+}
+.title-header {
+  font-size: 3rem;
+}
