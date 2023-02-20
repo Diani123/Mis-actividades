@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./pagos.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <div class="Encabezado">
+        <div><h2 class="title1">Pagos</h2></div>
+        <div class="Items">
+          <a href="./home.html" class="item"
+            ><h2 class="item-title">Home</h2></a
+          >
+          <a href="./pagos.html" class="item"
+            ><h2 class="item-title">Pagos</h2></a
+          >
+
+    </header>
+
+     
+   
+    <div class="ContainerT">
+      <div class="contenedor0">
+        <div class="time">
+          <span>Fecha de pago del bono: 23/03/2020</span><br /><br />
+          <span class="text-contenedor0"
+            >Tiempo restante para realizar el cargue: 2 dias con 3 horas
+          </span>
+        </div>
+        <div class="contenedor0-1">
+          <h4>Contactos</h4>
+          <span class="material-symbols-outlined">
+            mark_email_unread
+            </span>
+            h2
+          <span>
+            
+          </span>
+        </div>
+      </div>
+
+      <div class="contenedor1">
+        <div class="ContainerTitle">
+          <h3 class="title4">Evidencia mensual</h3></div>
+          <div class="datos">
+            <h2 class="datos-title">Datos del beneficiario</h2>
+            <form action="">
+              <span class="datos-span">Beneficio</span>
+              
+              <select name="beneficio" id="" class="datos-select">
+                <option value="id">hospedaje y alimentaciòn</option>
+                <option value="id">Alimentacion</option>
+            </select><br>
+              <span class="datos-span">Nombre y apellidos completos</span>
+              <label for="Nombre">
+                <input
+                  type="text"
+                  id="Nombre"
+                  name="Nombre"
+                  autocomplete="name"
+                  required
+                  class="datos-input"
+                />
+              </label><br>
+              <span class="datos-span">Tipo de identificaciòn</span>
+              
+              <select name="identificaciòn" id="" class="datos-select">
+                <option value="id">T.I</option>
+                <option value="id">C.C</option>
+            </select><br>
+            <span class="datos-span">Numero de identificaciòn</span>
+              <label for="Numero">
+                <input
+                  type="number"
+                  id="Numero"
+                  name="Numero"
+                  autocomplete="numero"
+                  required
+                  class="datos-input"
+                />
+                <br>
+                
+             <button class="boton-datos">Actualizar</button>
+            </form>
+            
+        </div>
+        <div class="Container-dowload">
+          <form
+            action="../../form-result.php"
+            method="post"
+            enctype="multipart/form-data"
+            target="_blank"
+          >
+            <p class="textt">Adjuntar foto</p>
+            <br />
+
+            <div class="custom-input-file col-md-6 col-sm-6 col-xs-6">
+              <input
+                type="file"
+                id="fichero-tarifas"
+                class="input-file"
+                value=""
+              />
+              Cargar archivo
+            </div>
+
+            <p class="textt">Nota</p>
+            <br />
+            <section class="Section-nota">
+              <input class="input3" type="text" name="" id="" />
+            </section>
+            <p class="textt">Advertencia</p>
+            <br />
+            <h2 class="advertencia">
+              Recuerda que subir evidencia falsa puede acarrear la perdida del
+              beneficio de hospedaje y alimentaciòn.
+            </h2>
+            <button class="boton">Subir</button>
+          </form>
+        </div>
+      </div>
+      <div class="contenedor2">
+        <h3>
+          Realiza el cargue de tu comprobante de pago del bono de hospedaje y alimentacion
+        </h3>
+        <h2 class="text-contenedor2">👈</h2>
+      </div>
+    </div>
+  </body>
+</html>

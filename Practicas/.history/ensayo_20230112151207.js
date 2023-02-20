@@ -1,0 +1,1 @@
+let pinpon=prompt("cantidad de horas completadas:")

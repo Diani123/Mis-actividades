@@ -1,0 +1,1 @@
+let Horas=prompt("cantidad de horas completadas:")

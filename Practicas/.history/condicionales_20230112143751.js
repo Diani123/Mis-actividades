@@ -1,0 +1,2 @@
+// while
+numeroParaSumar = 0;

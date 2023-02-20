@@ -1,0 +1,1 @@
+let dinero =prompt("¿Cuànt")
